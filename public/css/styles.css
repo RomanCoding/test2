@@ -1,0 +1,14 @@
+.page-footer {
+    margin-top: 10rem;
+}
+.page-footer ul {
+    list-style: none;
+}
+
+.no-left-padding {
+    padding-left: 0;
+}
+
+.new-order {
+    margin-top: 2em;
+}
